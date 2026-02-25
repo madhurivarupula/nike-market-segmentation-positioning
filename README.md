@@ -32,5 +32,12 @@ Understand brand perception and customer preferences to identify Nike’s streng
 - Report/Slides in `/docs`
 - Key visuals in `/artifacts`
 
+## Key Visuals
+![Methodology](artifacts/01_methodology_n35.png)
+![Segmentation](artifacts/02_segmentation_map.png)
+![Positioning](artifacts/03_positioning_map.png)
+![Insights](artifacts/04_insights.png)
+![Recommendations](artifacts/05_recommendations.png)
+
 ## Skills Used
 Survey design, data validation, segmentation, perceptual mapping, KPI summary, competitive analysis, positioning strategy
