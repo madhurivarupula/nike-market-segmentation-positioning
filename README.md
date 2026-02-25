@@ -40,7 +40,7 @@ Understand brand perception and customer preferences to identify Nike’s streng
 ![Recommendations](artifacts/05_recommendations.png)
 
 ## Files
-- Summary write-up (PDF): [Nike Summary](docs/nike_summary.pdf)
+- Summary write-up (PDF): [Nike Summary](docs/Nike%20Summary.pdf)
 
 ## Skills Used
 Survey design, data validation, segmentation, perceptual mapping, KPI summary, competitive analysis, positioning strategy
